@@ -76,8 +76,20 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = "Hello {}, my name is {}👸\n\nI'm a next gen powerful group manager bot created by [Janindu 🇱🇰](t.me/DeshadeethThisarana)\n\nHit /help to find my list of available commands"
+PM_START_TEXT = """
+Hello {}, my name is {}👸
 
+I am an 𝐴𝑛𝑖𝑚𝑒 themed group managing bot🤖 created by \n[Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](t.me/DeshadeethThisarana)
+
+I am very powerful🦾 & I will help in managing your group👨‍💻
+
+Hit /help to find my list of available commands
+
+©2021 [🛡Ģ₳ŇĞ🛡 ØF FŔĮĘŃĐŞ📝](http://t.me/gangoffriends) 
+©2021 [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](http://t.me/DeshadeethThisarana) 
+
+⚠️All Rights Reserved⚠️
+"""
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a group management bot, here to help you get around and keep the order in your groups!
