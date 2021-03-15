@@ -1,14 +1,15 @@
 {
-      "name": "Mizuki Bot",
+      "name": "Rose Bot",
       "description": "An Anime themed Telegram group management bot.",
+      "logo":"https://telegra.ph/file/49bcd722fe06a425b3673.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Saitama"
+         "Rose"
       ],   
-   "repository": "https://github.com/ImJanindu/Mizuki",
+   "repository": "https://github.com/deshadeeth-thisarana/Rose",
    "addons": [
       {
          "options": {
