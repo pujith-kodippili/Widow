@@ -1,14 +1,14 @@
-![Rose](https://telegra.ph/file/49bcd722fe06a425b3673.jpg)
-# Rose Bot
+![Widow](https://telegra.ph/file/39500bb2a6205ecc98807.jpg)
+# Widow Bot
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-Can be found on telegram as [Rose](https://t.me/Miss_Rose_robot)
+Can be found on telegram as [Widow](https://t.me/Widow_robot)
 
-The Support group can be reached out to at [Infinity JE](https://t.me/InfinityJEOT), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [🛡Ģ₳ŇĞ🛡 ØF FŔĮĘŃĐŞ📝](https://t.me/gangoffriends), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
+Updates channel as at aslo [🛡Ģ₳ŇĞ🛡 ØF FŔĮĘŃĐŞ📝](https://t.me/gangoffriendschannel)
 
 ## How to setup or deploy
 
@@ -20,7 +20,7 @@ Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Rose.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Widow.git) 
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
