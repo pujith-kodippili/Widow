@@ -107,9 +107,9 @@ I'm a group management bot, here to help you get around and keep the order in yo
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !\n",
 )
 
-ROSE_IMG = "https://telegra.ph/file/49bcd722fe06a425b3673.jpg"
+WIDOW_IMG = "https://telegra.ph/file/39500bb2a6205ecc98807.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@ImJanindu](t.me/imjanindu)"""
+DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](t.me/DeshadeethThisarana)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -216,7 +216,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_photo(
-                ROSE_IMG,
+                WIDOW_IMG,
                 PM_START_TEXT.format(
                     escape_markdown(first_name), escape_markdown(context.bot.first_name)
                 ),
@@ -226,7 +226,7 @@ def start(update: Update, context: CallbackContext):
                     [[
                             InlineKeyboardButton(
                                 text="❓Help & Commands❓", 
-                                url="https://t.me/Miss_Rose_robot?start=help")
+                                url="https://t.me/Widow_robot?start=help")
                         ],
                         [
                             InlineKeyboardButton(
@@ -243,8 +243,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [  
                             InlineKeyboardButton(
-                                text="➕ Add Rose to your Group", 
-                                url="https://t.me/Miss_Rose_robot?startgroup=true"
+                                text="➕ Add Widow to your Group", 
+                                url="https://t.me/Widow_robot?startgroup=true"
                             ),
                         ],
                     ]
@@ -313,7 +313,7 @@ def help_button(update, context):
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="Back", callback_data="help_back")]]
+                    [[InlineKeyboardButton(text="🔙Back", callback_data="help_back")]]
                 ),
             )
 
@@ -406,7 +406,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Back", callback_data="help_back")]]
+                [[InlineKeyboardButton(text="🔙Back", callback_data="help_back")]]
             ),
         )
 
@@ -479,7 +479,7 @@ def settings_button(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Back",
+                                text="🔙Back",
                                 callback_data="stngs_back({})".format(chat_id),
                             )
                         ]
