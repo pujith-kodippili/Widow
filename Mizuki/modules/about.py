@@ -1,16 +1,15 @@
 __help__ = """
-*Mizuki - A Powerful Telegram Group Manager 🎶
+*Widow - A Powerful Telegram Group Manager 🎶
 
 Powerful Abilities*
 
-• Group Voice Chat Music Play ❤
+ • Group Voice Chat Music Play ❤
 
-• File To Link and URL Upload 📂
+ • File To Link and URL Upload 📂
 
-• Youtube Downloader 🎵
+ • Youtube Downloader 🎵
 
-Developer @ImJanindu 🇱🇰
-
-Github [ImJanindu](https://github.com/ImJanindu)"""
+Developer @DeshadeethThisarana 🇱🇰
+"""
 
 __mod_name__ = "About 🇱🇰"
