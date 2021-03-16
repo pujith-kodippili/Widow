@@ -407,6 +407,7 @@ will result in restricting that user.
 
 • *Admins only:*
  • /setflood `<int/'no'/'off'>`*:* enables or disables flood control
+ 
  *Example:* `/setflood 10`
  • `/setfloodmode <ban/kick/mute/tban/tmute> <value>`*:* Action to perform when user have exceeded flood limit. ban/kick/mute/tmute/tban
 
