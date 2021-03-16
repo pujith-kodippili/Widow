@@ -1,15 +1,15 @@
 {
-      "name": "Rose Bot",
+      "name": "Widow Bot",
       "description": "An Anime themed Telegram group management bot.",
-      "logo":"https://telegra.ph/file/49bcd722fe06a425b3673.jpg",
+      "logo":"https://telegra.ph/file/39500bb2a6205ecc98807.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Rose"
+         "Widow"
       ],   
-   "repository": "https://github.com/deshadeeth-thisarana/Rose",
+   "repository": "https://github.com/deshadeeth-thisarana/Widow",
    "addons": [
       {
          "options": {
