@@ -3,7 +3,7 @@
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-Can be found on telegram as [Widow](https://t.me/Widow_robot)
+# Can be found on telegram as [Widow](https://t.me/Widow_robot)
 
 The Support group can be reached out to at [🛡Ģ₳ŇĞ🛡 ØF FŔĮĘŃĐŞ📝](https://t.me/gangoffriends), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
