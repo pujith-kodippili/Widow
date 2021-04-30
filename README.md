@@ -1,5 +1,5 @@
 ![Widow](https://telegra.ph/file/39500bb2a6205ecc98807.jpg)
-# Widow Bot
+# <marquee> Widow Bot </marquee>
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
